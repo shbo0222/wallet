@@ -1,4 +1,4 @@
-package com.democheck.demo.service;
+package com.democheck.demo.service.impl;
 
 import com.democheck.demo.dto.TransactionHistoryResponse;
 import com.democheck.demo.dto.TransactionRequest;
